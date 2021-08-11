@@ -2,7 +2,7 @@
 
 ## Description
 
-Simple tool to identify and remediate the use of the AWS EC2 Instance Metadata Service (IMDS) v1. For additional details, refer to the [accompanying blog post](TODO link).
+Simple tool to identify and remediate the use of the AWS EC2 Instance Metadata Service (IMDS) v1. For additional details, refer to the [accompanying blog post](https://latacora.micro.blog/2021/08/11/remediating-aws-imdsv.html).
 
 ## Dependencies
 
